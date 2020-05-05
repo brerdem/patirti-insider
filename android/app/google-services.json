@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078809688017",
+    "firebase_url": "https://patirti-mobile.firebaseio.com",
+    "project_id": "patirti-mobile",
+    "storage_bucket": "patirti-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078809688017:android:cb989b4ef7f27fc2",
+        "android_client_info": {
+          "package_name": "com.patirti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078809688017-ifqe9ui7nhti1ls9g8ktk99g13tacob0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpU3CUK5SjeVpRDNCuPazAMqrtd1zb78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078809688017-ifqe9ui7nhti1ls9g8ktk99g13tacob0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1078809688017-tk4ggtvgbqemajkmdmc55loi0nmmh1gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.patirti.ios",
+                "app_store_id": "1244695789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+framework module RNInsider {
+  umbrella header "RNInsider-umbrella.h"
+
+  export *
+  module * { export * }
+}

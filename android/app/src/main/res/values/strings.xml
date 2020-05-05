@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Patırtı</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">OgV_l21MvEshhNdP3VuPDoDAxkQJdY_LWRUai</string>
+    <string name="facebook_app_id">124413695071133</string>
+</resources>

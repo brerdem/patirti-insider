@@ -1,0 +1,6 @@
+framework module Pods_patirtiTests {
+  umbrella header "Pods-patirtiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

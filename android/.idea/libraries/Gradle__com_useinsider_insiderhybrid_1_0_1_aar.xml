@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.useinsider:insiderhybrid:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb5ff2d575391ecc04afe2ab604108c/insiderhybrid-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb5ff2d575391ecc04afe2ab604108c/insiderhybrid-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

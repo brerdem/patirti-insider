@@ -1,0 +1,28 @@
+{
+  "name": "RNInsider",
+  "version": "3.0.0",
+  "summary": "React Native Insider SDK",
+  "homepage": "https://github.com/useinsider/react-native-insider",
+  "authors": "insidermobile",
+  "license": "MIT",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "http": "https://mobilesdk.useinsider.com/iOS/10.0.2/InsiderMobileIOSFramework.zip"
+  },
+  "source_files": "ios/RNInsider/*.{h,m}",
+  "requires_arc": true,
+  "static_framework": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "InsiderMobile": [
+      "10.0.2"
+    ],
+    "InsiderHybrid": [
+      "0.0.7"
+    ]
+  }
+}

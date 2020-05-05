@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1078809688017-ifqe9ui7nhti1ls9g8ktk99g13tacob0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://patirti-mobile.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1078809688017</string>
+    <string name="google_api_key" translatable="false">AIzaSyDOpU3CUK5SjeVpRDNCuPazAMqrtd1zb78</string>
+    <string name="google_app_id" translatable="false">1:1078809688017:android:cb989b4ef7f27fc2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDOpU3CUK5SjeVpRDNCuPazAMqrtd1zb78</string>
+    <string name="google_storage_bucket" translatable="false">patirti-mobile.appspot.com</string>
+    <string name="project_id" translatable="false">patirti-mobile</string>
+</resources>
