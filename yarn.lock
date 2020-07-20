@@ -4929,9 +4929,9 @@ lodash.unescape@4.0.1:
   integrity sha1-vyJJiGzlFM2hEvrpIYzcBlIR/Jw=
 
 lodash@^4.0.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -6504,10 +6504,10 @@ react-native-image-pan-zoom@^2.1.11:
   resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.11.tgz#61bcb69219d95e76a9797d23e4a2e8e0bd654ae9"
   integrity sha512-ZCisGUFpPchHXsjT7ZI0anlSLPgcTmjRKXqpVnPu3RDWFXfKjuL4zpY57DX4Y8YgGZCpbf9fApN7KjVYody2Mw==
 
-react-native-insider@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.0.2.tgz#cd20a2718af9983c9644cd5f0f35a95cd684bf4c"
-  integrity sha512-GI1+twsrQ9iVWYAMn7wwccJTT3rd9hXG3HLRsbORlW34rQRThGbAC6h9hmhvTsoOrb0aYHQJyJwnyavXINkVJQ==
+react-native-insider@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.2.0.tgz#6d578c3b9add92e7f5c3c518c387e1f5730258d7"
+  integrity sha512-2+vm0HdpctGwD3h6R9aJoQQphwPV6Tc4RNM50KQb7LPVwoPmvaDbBlo3BLYvbX1aZ6th2d73gXkCR6/aghEFmA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
