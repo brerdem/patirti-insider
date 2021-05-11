@@ -3746,9 +3746,9 @@ hoist-non-react-statics@^3.2.1, hoist-non-react-statics@^3.3.0:
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.4"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.4.tgz#44119abaf4bc64692a16ace34700fed9c03e2546"
-  integrity sha512-pzXIvANXEFrc5oFFXRMkbLPQ2rXRoDERwDLyrcUxGhaZhgP54BBSl9Oheh7Vv0T090cszWBxPjkQQ5Sq1PbBRQ==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
@@ -6504,10 +6504,10 @@ react-native-image-pan-zoom@^2.1.11:
   resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.11.tgz#61bcb69219d95e76a9797d23e4a2e8e0bd654ae9"
   integrity sha512-ZCisGUFpPchHXsjT7ZI0anlSLPgcTmjRKXqpVnPu3RDWFXfKjuL4zpY57DX4Y8YgGZCpbf9fApN7KjVYody2Mw==
 
-react-native-insider@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.0.2.tgz#cd20a2718af9983c9644cd5f0f35a95cd684bf4c"
-  integrity sha512-GI1+twsrQ9iVWYAMn7wwccJTT3rd9hXG3HLRsbORlW34rQRThGbAC6h9hmhvTsoOrb0aYHQJyJwnyavXINkVJQ==
+react-native-insider@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.2.0.tgz#6d578c3b9add92e7f5c3c518c387e1f5730258d7"
+  integrity sha512-2+vm0HdpctGwD3h6R9aJoQQphwPV6Tc4RNM50KQb7LPVwoPmvaDbBlo3BLYvbX1aZ6th2d73gXkCR6/aghEFmA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
