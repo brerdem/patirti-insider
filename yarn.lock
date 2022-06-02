@@ -3108,7 +3108,7 @@ extend@^3.0.0, extend@~3.0.2:
 extendible@0.1.x:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/extendible/-/extendible-0.1.1.tgz#e2a37ed87129fb4f9533e8a8d7506230a539c905"
-  integrity sha1-4qN+2HEp+0+VM+io11BiMKU5yQU=
+  integrity sha512-AglckQA0TJV8/ZmhQcNmaaFcFFPXFIoZbfuoQOlGDK7Jh/roWotYzJ7ik1FBBCHBr8n7CgTR8lXXPAN8Rfb7rw==
 
 external-editor@^1.1.0:
   version "1.1.1"
@@ -6196,9 +6196,9 @@ posix-character-classes@^0.1.0:
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
 predefine@0.1.x:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/predefine/-/predefine-0.1.2.tgz#2aa92b4496bc1f8554e43a45f76bfbe50d33d37f"
-  integrity sha1-KqkrRJa8H4VU5DpF92v75Q0z038=
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/predefine/-/predefine-0.1.3.tgz#833d67afa815c42707845449dbc88d8a307744e5"
+  integrity sha512-Nq6APFC5OtQRl5TmMk6RlGwl6UOCtEqa+5ZTbKFp6tMw4wdMUa7Rief0UNE3fV5BgQahJ70QmDgeOog8RE9FMw==
   dependencies:
     extendible "0.1.x"
 
@@ -6504,10 +6504,10 @@ react-native-image-pan-zoom@^2.1.11:
   resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.11.tgz#61bcb69219d95e76a9797d23e4a2e8e0bd654ae9"
   integrity sha512-ZCisGUFpPchHXsjT7ZI0anlSLPgcTmjRKXqpVnPu3RDWFXfKjuL4zpY57DX4Y8YgGZCpbf9fApN7KjVYody2Mw==
 
-react-native-insider@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.0.2.tgz#cd20a2718af9983c9644cd5f0f35a95cd684bf4c"
-  integrity sha512-GI1+twsrQ9iVWYAMn7wwccJTT3rd9hXG3HLRsbORlW34rQRThGbAC6h9hmhvTsoOrb0aYHQJyJwnyavXINkVJQ==
+react-native-insider@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.2.0.tgz#6d578c3b9add92e7f5c3c518c387e1f5730258d7"
+  integrity sha512-2+vm0HdpctGwD3h6R9aJoQQphwPV6Tc4RNM50KQb7LPVwoPmvaDbBlo3BLYvbX1aZ6th2d73gXkCR6/aghEFmA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
