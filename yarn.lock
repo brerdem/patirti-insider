@@ -2500,9 +2500,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.6.0:
   version "0.6.0"
@@ -6504,10 +6504,10 @@ react-native-image-pan-zoom@^2.1.11:
   resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.11.tgz#61bcb69219d95e76a9797d23e4a2e8e0bd654ae9"
   integrity sha512-ZCisGUFpPchHXsjT7ZI0anlSLPgcTmjRKXqpVnPu3RDWFXfKjuL4zpY57DX4Y8YgGZCpbf9fApN7KjVYody2Mw==
 
-react-native-insider@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.0.2.tgz#cd20a2718af9983c9644cd5f0f35a95cd684bf4c"
-  integrity sha512-GI1+twsrQ9iVWYAMn7wwccJTT3rd9hXG3HLRsbORlW34rQRThGbAC6h9hmhvTsoOrb0aYHQJyJwnyavXINkVJQ==
+react-native-insider@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.2.0.tgz#6d578c3b9add92e7f5c3c518c387e1f5730258d7"
+  integrity sha512-2+vm0HdpctGwD3h6R9aJoQQphwPV6Tc4RNM50KQb7LPVwoPmvaDbBlo3BLYvbX1aZ6th2d73gXkCR6/aghEFmA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
