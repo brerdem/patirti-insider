@@ -2340,9 +2340,9 @@ convert-source-map@^1.7.0:
     safe-buffer "~5.1.1"
 
 cookiejar@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-descriptor@^0.1.0:
   version "0.1.1"
@@ -6504,10 +6504,10 @@ react-native-image-pan-zoom@^2.1.11:
   resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.1.11.tgz#61bcb69219d95e76a9797d23e4a2e8e0bd654ae9"
   integrity sha512-ZCisGUFpPchHXsjT7ZI0anlSLPgcTmjRKXqpVnPu3RDWFXfKjuL4zpY57DX4Y8YgGZCpbf9fApN7KjVYody2Mw==
 
-react-native-insider@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.0.2.tgz#cd20a2718af9983c9644cd5f0f35a95cd684bf4c"
-  integrity sha512-GI1+twsrQ9iVWYAMn7wwccJTT3rd9hXG3HLRsbORlW34rQRThGbAC6h9hmhvTsoOrb0aYHQJyJwnyavXINkVJQ==
+react-native-insider@^3.0.2:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-insider/-/react-native-insider-3.2.0.tgz#6d578c3b9add92e7f5c3c518c387e1f5730258d7"
+  integrity sha512-2+vm0HdpctGwD3h6R9aJoQQphwPV6Tc4RNM50KQb7LPVwoPmvaDbBlo3BLYvbX1aZ6th2d73gXkCR6/aghEFmA==
 
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
